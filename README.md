@@ -4,7 +4,7 @@ This repository is a collection of competitive programming problems and their so
 
 ## Structure
 
-Each category has its own directory. Inside each category directory, there are subdirectories for each problem.
+Each category has its own directory. Inside each category directory, there are subdirectories for each difficulty level (`easy`, `medium`, `hard`). Inside each difficulty directory, there are subdirectories for each problem.
 
 Each problem directory contains:
 
